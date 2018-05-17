@@ -1,2 +1,2 @@
 # DIY-WishList
-Tools and other material needed for DIY Projects
+Tools and other stuff needed for DIY Projects
